@@ -1,8 +1,4 @@
 package Jackson.Java;
-
-public class inOrderTraversal {
-    
-}
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
