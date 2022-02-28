@@ -3,6 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+"""I had already looked at this problem before."""
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
         t = self.merge(list1, list2)
