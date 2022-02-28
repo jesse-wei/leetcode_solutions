@@ -1,4 +1,5 @@
 //Returns minimum depth of a binary tree
+package Trees;
 class Solution {
     public int minDepth(TreeNode root) {
         int sol = 0;
