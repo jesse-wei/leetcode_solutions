@@ -1,4 +1,3 @@
-package Trees;
 
  public class TreeNode {
      int val;
